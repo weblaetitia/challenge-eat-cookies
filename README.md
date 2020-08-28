@@ -1,4 +1,6 @@
 # Challenge! "Eat cookies"
+https://laetitialanglois.fr/jsdemo/eat-cookies/
+
 Week 1 JavaScript challenge @ lacapsule.academy
 
 ## Languages used
